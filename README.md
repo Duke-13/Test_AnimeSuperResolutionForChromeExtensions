@@ -1,6 +1,6 @@
 # Test_AnimeSuperResolutionForChromeExtensions
 
-## Anume1.5k （β版以前）
+## Anime1.5k （β版以前）
 
 ### インストール方法
 
