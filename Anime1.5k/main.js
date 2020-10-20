@@ -672,8 +672,7 @@ function onLoad() {
     const board = document.getElementById('board');
     const gl = board.getContext('webgl');
 
-    console.log("1111111111");
-    movOrig.src = "umaru.mp4";
+
     movOrig.srcObject=window.currentStream;
 
     movOrig.addEventListener('loadedmetadata', function() {
